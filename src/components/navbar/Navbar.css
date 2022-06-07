@@ -1,0 +1,21 @@
+.navbar{       
+    width: 100%;    
+    background-color: lightgray;    
+    font-size: 14px;
+    padding-right: 30px;     
+}
+.navbar P{
+    font-weight: 500;
+}
+.navbar button{
+    position: relative;
+    background: transparent;
+    border: .5px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+
+}
+.navbar input{
+    font-size: 12px;
+}

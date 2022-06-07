@@ -1,0 +1,10 @@
+.dashboard{
+    display: flex;
+    background-color: white;
+}
+.sidebar{
+    flex:1;
+}
+.home{
+    flex: 6;
+}

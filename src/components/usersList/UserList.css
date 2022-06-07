@@ -1,0 +1,18 @@
+.user-list{    
+    display: flex;
+    border: 1px solid lightgray;     
+    font-size: 12px;  
+    justify-content: space-between; 
+    padding-left: 20px; 
+    padding-right: 10px;    
+}
+.table-head{
+    padding-left: 20px;
+    padding-right: 50px;
+    font-size: 14px;
+    display: flex; 
+    justify-content: space-between;    
+}
+tr{
+    padding: 10px;
+}

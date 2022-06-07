@@ -1,0 +1,27 @@
+.main{
+    margin: 20px; 
+    padding: 20px;   
+    max-height: 80vh;
+    background-color: whitesmoke;          
+    
+}
+.main .top{    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+button{
+    background: transparent;
+    border: .5px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+}
+input{
+    font-size: 12px;
+}
+.main-content{
+    height: 80%;
+    overflow: hidden;
+}
