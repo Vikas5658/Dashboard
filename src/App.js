@@ -13,18 +13,10 @@ function App() {
 
     <Router>
     <Dashboard/> 
-    <Routes>
-    
-    </Routes >         
- 
+    <Routes>    
+    </Routes >   
     </Router> 
-    
-    
-      
     </>
-    
-
-
   );
 }
 
